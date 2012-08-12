@@ -1,0 +1,7 @@
+[user]
+	name = Becky Lewis
+	email = github@scaryclam.co.uk
+[core]
+	excludesfile = /home/scaryclam/.gitignore_global
+[alias]
+	st = status
